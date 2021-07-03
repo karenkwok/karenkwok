@@ -1,6 +1,6 @@
 # Hey, I'm Karen! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-karenkwok-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-kwok/)](https://www.linkedin.com/in/karen-kwok/)
+[![Linkedin Badge](https://img.shields.io/badge/-karen&ndash;kwok-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-kwok/)](https://www.linkedin.com/in/karen-kwok/)
 
 <!--
 **karenkwok/karenkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
