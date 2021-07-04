@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 * 💻 Developer of some sorts
 * 🎓 UofT Stats grad 2021
 * 🎹 Sometimes I play the piano
-* ⚡ Always challenging myself on LeetCode
 * 📺 Currently binge-watching Friends
+* 🚀 Always challenging myself on LeetCode
