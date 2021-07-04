@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 💻 Developer of some sorts
+* 🎓 UofT Stats grad 2021
+* 🎹 Sometimes I play the piano
+* ⚡ Always challenging myself on LeetCode
+* 📺 Currently binge-watching Friends
