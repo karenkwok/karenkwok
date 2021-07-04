@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 [![Node.js](https://img.shields.io/badge/-Node.js-eee?style=flat-square&logo=node.js&logoColor=#339933)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]()
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]()
-[![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)]()
 [![HTML](http://img.shields.io/badge/-HTML-eee?style=flat-square&logo=html5&logoColor=E34F26)]()
 [![CSS](http://img.shields.io/badge/-CSS-eee?style=flat-square&logo=css3&logoColor=1572B6)]()
