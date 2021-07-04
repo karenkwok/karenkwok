@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 💻 Developer of some sorts
-* 🎓 UofT Stats grad 2021
-* 🎹 Sometimes I play the piano
-* 📺 Currently binge-watching Friends
+* :rocket: Developer of some sorts
+* :books: UofT Stats grad 2021
+* :musical_keyboard: Sometimes I play the piano
+* :fire: Currently binge-watching Friends
 
 **What I can do:**
 
