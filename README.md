@@ -1,6 +1,7 @@
 # Hey, I'm Karen! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-karen&ndash;kwok-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-kwok/)](https://www.linkedin.com/in/karen-kwok/)
+[![LeetCode Badge](https://img.shields.io/badge/-karenkwok-orange?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/karenkwok/)](https://leetcode.com/karenkwok/)
 
 <!--
 **karenkwok/karenkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,6 @@ Here are some ideas to get you started:
 * 🎓 UofT Stats grad 2021
 * 🎹 Sometimes I play the piano
 * 📺 Currently binge-watching Friends
-* 🚀 Always challenging myself on LeetCode
 
 **What I can do:**
 
