@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * :musical_keyboard: Sometimes I play the piano
 * :fire: Currently binge-watching Friends
 
-**What I can do:**
+### :zap: What I can do: 
 
 [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-eee?style=flat-square&logo=node.js&logoColor=#339933)]()
