@@ -1,7 +1,7 @@
 # Hey, I'm Karen! 👋
 
+[![Website Badge](https://img.shields.io/badge/-karenkwok.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.karenkwok.me/)](https://www.karenkwok.me/)
 [![Linkedin Badge](https://img.shields.io/badge/-karen&ndash;kwok-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-kwok/)](https://www.linkedin.com/in/karen-kwok/)
-[![Website Badge](https://img.shields.io/badge/-website&ndash;when&ndash;i&ndash;finish&ndash;so&ndash;it's&ndash;linkedin&ndash;for&ndash;now-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.linkedin.com/in/karen-kwok/)](https://www.linkedin.com/in/karen-kwok/)
 [![LeetCode Badge](https://img.shields.io/badge/-karenkwok-FFA116?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/karenkwok/)](https://leetcode.com/karenkwok/)
 
 <!--
