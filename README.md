@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* :rocket: Developer of some sorts
+* :rocket: Full Stack Developer
 * :books: UofT Stats grad 2021
 * :musical_keyboard: Sometimes I play the piano
 * :fire: Currently binge-watching Friends
