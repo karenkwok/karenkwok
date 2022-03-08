@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* :rocket: Full Stack Developer
+* :rocket: Software Developer @ Milano Software
 * :books: Stats Grad @ UofT
 * :musical_keyboard: Sometimes I play the piano
 
